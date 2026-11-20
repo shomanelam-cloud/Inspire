@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix V7 The Inspire Business Academy",
+  "description": "The Inspire Business Academy - Hunarmand Pakistan - Premier Hybrid Academy & Online Learning Management System (Sadiqabad, Punjab)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
